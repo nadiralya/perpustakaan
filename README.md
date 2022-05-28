@@ -1,7 +1,5 @@
 ## Deskripsi Aplikasi
-Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
-
-Nama aplikasi
+Perpusna adalah Sistem Informasi Perpustakaan Berbasis Web yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
 
 ##  Framework
 * Codeigniter 3.1.11

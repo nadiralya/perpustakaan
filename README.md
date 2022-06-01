@@ -7,14 +7,16 @@ Perpusna adalah Sistem Informasi Perpustakaan Berbasis Web yang dapat digunakan 
 
 ## Penggunaan Login Akses
 
-<b>Petugas Perpus : </b>
-<br/>
+Petugas Perpus :
 Username : nadira
-<br/>
 Password : 123
 
-<b>Anggota Perpus :</b>
-<br/>
+Anggota Perpus :
 Username : seli
-<br/>
 Password : 12345
+
+
+Username : salsa
+Password : 234
+
+

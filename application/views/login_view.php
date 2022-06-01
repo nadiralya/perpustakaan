@@ -83,8 +83,8 @@
   <!-- /.login-box-body -->
   <br/>
   <footer>
-    <div class="login-box-body text-center bg-blue">
-       <a style="color: White;"> Copyright &copy; Sistem Informasi Perpustakaan <?php echo date("Y");?>
+    <div class="login-box-body text-center bg-green">
+       <a style="color: White;"> Copyright &copy; Perpusna <?php echo date("Y");?>
     </div>
   </footer>
 </div>

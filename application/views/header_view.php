@@ -53,7 +53,7 @@
       $(document).ajaxStart(function() { Pace.restart(); });
   </script>
 </head>
-<body class="hold-transition skin-blue-light sidebar-mini">
+<body class="hold-transition skin-green-light sidebar-mini">
 <div class="wrapper">
   <header class="main-header">
 
@@ -62,7 +62,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>P</b>C</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg">PERPUSINFO</span>
+      <span class="logo-lg">Perpusna</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
